@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1608056854 source:c:\users\diazraphael\desktop\gps_objet\main.cpp
+	<iostream>
+	"Temporaire1.h"
+	"Connection.h"
+
+1608056931 c:\users\diazraphael\desktop\gps_objet\include\temporaire1.h
+	<mysql.h>
+	<vector>
+	<iostream>
+	<windows.h>
+
+1608056534 source:c:\users\diazraphael\desktop\gps_objet\src\temporaire1.cpp
+	"Temporaire1.h"
+
+1608055183 c:\users\diazraphael\desktop\gps_objet\include\connection.h
+	<mysql.h>
+
+1608055198 source:c:\users\diazraphael\desktop\gps_objet\src\connection.cpp
+	"Connection.h"
+	<iostream>
+
